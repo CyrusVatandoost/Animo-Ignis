@@ -1,0 +1,14 @@
+SPRITES: (16 x 16)
+- players (4 or more)
+- bomb (3 stages or just 2 if it's blinking)
+- explosion
+- power ups: (extra bomb, up strength, up speed)
+- wall
+- breakable wall
+- floor
+
+SOUNDS:
+- background music in menu
+- background music during gameplay
+- explosion sound
+- power up collection sound
